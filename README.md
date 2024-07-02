@@ -1,2 +1,2 @@
 # html-boilerplate
-html-boilerplate from The Odin Project
+html-boilerplate from The Odin Project!
